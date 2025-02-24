@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1685403463 "MVEvansCV.xdv" "MVEvansCV.pdf" "MVEvansCV" 1685403463
-  "MVEvansCV.xdv" 1685403463 156600 938e4d7338550265f452501a434882b4 "xelatex"
+["xdvipdfmx"] 1740393151 "MVEvansCV.xdv" "MVEvansCV.pdf" "MVEvansCV" 1740393151
+  "MVEvansCV.xdv" 1740393151 184632 188bc4e71198128c818a9d9e8b651797 "xelatex"
   (generated)
   "MVEvansCV.pdf"
-["xelatex"] 1685403462 "MVEvansCV.tex" "MVEvansCV.xdv" "MVEvansCV" 1685403463
+["xelatex"] 1740393150 "MVEvansCV.tex" "MVEvansCV.xdv" "MVEvansCV" 1740393151
   "/etc/texmf/web2c/texmf.cnf" 1685392910 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -87,18 +87,18 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1605910342 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1685394418 3606627 8a77475a4a1fd1b69b2a0f3dd22af5aa ""
-  "MVEvansCV.aux" 1685403463 674 eb86224556f71b425d11064f74f0f8c3 "xelatex"
-  "MVEvansCV.out" 1685403463 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "MVEvansCV.tex" 1685403460 3398 d454c6943eab62ff47287683a75fdca3 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1710739818 3606614 6f23525a071f48b6e5efa3e7164112f1 ""
+  "MVEvansCV.aux" 1740393151 674 87480c2242c027ba7a44c758887f0980 "xelatex"
+  "MVEvansCV.out" 1740393151 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "MVEvansCV.tex" 1685403506 3398 d454c6943eab62ff47287683a75fdca3 ""
   "academicons.sty" 1637909330 17500 12a9ce71596382259ad1f05439cf7e45 ""
   "awesome-cv.cls" 1646487670 24753 d2f3e980387ac8dd25b520f6077cc78e ""
   "cv/education.tex" 1619543089 1471 e87b7bd690cda1a59f1fc83cdd99da42 ""
-  "cv/experience.tex" 1685392681 1431 10658e08309bdac5be2eac672720412b ""
-  "cv/honors.tex" 1685403374 3832 1c1f81fadd5ca44f35917b729a1997a9 ""
+  "cv/experience.tex" 1740392418 1596 959f9cea95f3f7b0227f2842853d5aa5 ""
+  "cv/honors.tex" 1740392495 4032 eed0c9ba17da3e9cc04a24ab2d43ecdf ""
   "cv/presentation-select.tex" 1675949995 2954 3c71bebd6e00131358fe0eeb77d738c8 ""
-  "cv/publications.tex" 1685396602 9063 5ce409193f8f1418bf2d25275ef40400 ""
-  "cv/service.tex" 1675950218 3860 c39e0c26bc2ded29fb21552080f6b3e2 ""
+  "cv/publications.tex" 1740393148 11530 489a237bdc5edec4eb51c5827df13632 ""
+  "cv/service.tex" 1740393032 4198 f26141b244c4d27cb0de7ea4590b0b22 ""
   "fontawesome.sty" 1646486415 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
   (generated)
   "MVEvansCV.aux"
